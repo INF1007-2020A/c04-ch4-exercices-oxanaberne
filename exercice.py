@@ -7,11 +7,14 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    pass
+    chaine1 = ""
+    chaine1 = string[0:2] + string[3:]
+    return chaine1
+
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-    pass
+  
 
 
 def get_number_of_char(string: str, char: str) -> int:
