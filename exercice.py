@@ -17,7 +17,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
     chaine1 = ""
     old_char = "w"
     new_char = "z"
-    chaine1 = 
+    chaine1 =  string[:5] +
     return
 
 
