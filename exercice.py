@@ -18,7 +18,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
     old_char = "w"
     new_char = "z"
     chaine1 = string[:5] + new_char + string[7:]
-    return
+    return chaine1
 
 
 def get_number_of_char(string: str, char: str) -> int:
