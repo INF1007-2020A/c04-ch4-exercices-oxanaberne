@@ -14,7 +14,7 @@ def remove_third_char(string: str) -> str:
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-    new_char = old_char[:5] + "z" + old_char
+    new_char = old_char[:5] + "z" + old_char[]
 
 
 def get_number_of_char(string: str, char: str) -> int:
